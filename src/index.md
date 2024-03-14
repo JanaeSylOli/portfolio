@@ -1,7 +1,7 @@
 ---
-title: Welcome
-date: Created
+title: Home Page
 layout: base
+pageClass: home
 tags:
   - home
   - welcome
