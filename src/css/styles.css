@@ -209,9 +209,14 @@
   
   .design-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr); /* 3 columns grid */
+    grid-template-columns: 1fr; /* Single grid for mobile  */
     gap: 2rem; /* Space between grid items */
     
+  }
+  @media (min-width: 768px){
+    .design-grid{
+      grid-template-columns: repeat(3, 1fr);
+    }
   }
   
   .design-item {
@@ -258,11 +263,12 @@
     transform: scale(1.05); /* Optional scale effect on hover */
   }
   
-  @media (max-width: 768px) {
+ /* @media (max-width: 768px) {
     .design-grid {
       grid-template-columns: 1fr; /* Single column grid for mobile */
-    }
-  }
+    
+  
+  
   .work-gallery {
     display: flex;
     justify-content: space-around;
@@ -512,8 +518,10 @@
   .card-container {
     display: flex;
     flex-wrap: wrap; /* Allows cards to wrap on smaller screens */
-    justify-content: center; /* Centers cards in the container */
-    gap: 20px; /* Space between cards */
+    justify-content:center;
+    gap: 20px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
   }
   
   .card {
