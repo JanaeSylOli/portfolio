@@ -35,9 +35,9 @@ tags:
     <h2>My Featured Work</h2>
     <div class="card-container">
         <!-- Card 1 -->
-        <a href="cosmicsura.html" class="card-link">
+        <a href="/cosmicaura" class="card-link">
             <div class="card">
-                <img src="images/Hair-Is-Her-Superpower copy.jpg" alt="Cosmic Aura: The Empowerment Portrait" class="card-image">
+                <img src="/images/Hair-Is-Her-Superpower copy.jpg" alt="Cosmic Aura: The Empowerment Portrait" class="card-image">
                 <div class="card-info">
                     <h3 class="card-title">Cosmic Aura: The Empowerment Portrait</h3>
                     <p class="card-description">"Cosmic Aura" is a vibrant digital portrait created in Procreate, encapsulating the magnetic allure of individuality and the radiant power of self-expression...</p>
@@ -45,9 +45,9 @@ tags:
             </div>
         </a>
         <!-- Card 2 -->
-        <a href="throughmyeyes.html" class="card-link">
+        <a href="/throughmyeyes" class="card-link">
             <div class="card">
-                <img src="images/self-portrait copy.jpg" alt="Through My Eyes: A Reflection of Self" class="card-image">
+                <img src="/images/self-portrait copy.jpg" alt="Through My Eyes: A Reflection of Self" class="card-image">
                 <div class="card-info">
                     <h3 class="card-title">Through My Eyes: A Reflection of Self</h3>
                     <p class="card-description">This photograph, a deeply personal piece for my school project in conceptual photography, represents more than just a pair of worn glasses...</p>

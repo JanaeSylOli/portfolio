@@ -10,7 +10,7 @@ tags: work
 <div class="design-grid">
         <!--  single design item with hover effect and clickable link -->
         <div class="design-item">
-          <a href="/cosmicsura" class="design-link" data-title="Cosmic Aura: The Empowerment Portrait">
+          <a href="/cosmicaura" class="design-link" data-title="Cosmic Aura: The Empowerment Portrait">
             <img src="/images/Hair-Is-Her-Superpower copy.jpg" alt="" class="design-image">
           </a>
 </div>
@@ -28,14 +28,14 @@ tags: work
 </div>
 
 <div class="design-item">
-    <a href="/pharaoh" class="design-link" data-title="Afro-Futurism Pharaoh: A Glimpse Within">
+    <a href="/pharoah" class="design-link" data-title="Afro-Futurism Pharaoh: A Glimpse Within">
     <img src="/images/Afro-Futurism-Pharaoh copy.jpg" alt="" class="design-image">
     </a>
 </div>
 
 
 <div class="design-item">
-    <a href="/blueessensce" class="design-link" data-title="Blue Essence: A Digital Meditation">
+    <a href="/blueessence" class="design-link" data-title="Blue Essence: A Digital Meditation">
     <img src="/images/Blue-Essence-Portrait copy.jpg" alt="" class="design-image">
     </a>
 </div>

@@ -36,7 +36,7 @@ tags: work
 
 
 <div class="design-item">
-    <a href="/lightphoto.html" class="design-link" data-title="Illuminated Disguise: Behind the Light">
+    <a href="/lightphoto" class="design-link" data-title="Illuminated Disguise: Behind the Light">
     <img src="/images/mask-of-happiness copy.jpg" alt="Design Title 1" class="design-image">
     </a>
 </div>
