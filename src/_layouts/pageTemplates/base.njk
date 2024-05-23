@@ -26,7 +26,28 @@ siteTitle: Your Site Title Here
     </head>
   <body class="{{pageClass}}">
     <header class="site-header">
-      {% include "navigation.njk" %}<!-- Add your nav element to the _includes/navigation.njk file -->
+      <div class="top-nav">
+        <div class="left-menu">
+    
+            <a href="index.html" class="home-button">HOME</a>
+    
+            <div class="dropdown">
+                <button>STAY CONNECTED</button>
+                <div class="dropdown-content">
+                    <a href="resume.html">RESUMÉ</a>
+                    <a href="contactme.html">CONTACT ME</a>
+                    
+                </div>
+            </div>
+            <div class="dropdown">
+                <button>MY WORKS</button>
+                <div class="dropdown-content">
+                    <a href="digitalart.html">DIGITAL ART</a>
+                    <a href="photography.html">PHOTOGRAPHY</a>
+    
+                    </div>
+            </div>
+        </div>
     </header>
   
     <main class="main page-content">
